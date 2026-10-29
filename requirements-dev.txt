@@ -1,0 +1,5 @@
+# Tools for development and testing (not needed to run the app).
+# The first line also installs everything in requirements.txt.
+-r requirements.txt
+pytest==9.2.0
+httpx2==2.16.0
