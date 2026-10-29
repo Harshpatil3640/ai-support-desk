@@ -1,0 +1,4 @@
+# Packages the application needs to run.
+# Exact versions, so every computer installs the same thing.
+fastapi==0.162.0
+uvicorn==0.54.0
